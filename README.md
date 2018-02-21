@@ -1,1 +1,5 @@
-# This project stores different notes
+# This project stores
+## A. Useful notes
+## B. Small researches
+
+
