@@ -29,7 +29,8 @@ This tool is definitely useful if we have **one-page websites**, **information/n
 ## Prototype
 For the testing purpose the prototype was created.
 
-**Things that have to be mantioned**
+**Things that have to be mantioned:** <br/>
+
 First, it is possible to show only one specific tweet/tweets with <amp-twitter> but not all news feed(if it necessary to post all company's feed list to keep readers updated, for example), which still can be done with twitter widget though. However, if the blog is about a tricky question and requires some references on specialists opinions - <amp-twitter> is a must have tag to use.
 
 Second, some tags are not working in Google Chrome and Chromium desktop browsers(<amp-twitter>, for example).
