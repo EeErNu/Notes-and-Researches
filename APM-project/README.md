@@ -1,4 +1,4 @@
-# Proof of concept AMP
+# Proof of concept AMP(see review in docs folder)
 This is an overview of AMP project (https://www.ampproject.org/). 
 
 # Summary 
