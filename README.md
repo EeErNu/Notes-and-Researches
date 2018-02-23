@@ -2,6 +2,7 @@
 ## A. Useful notes:
   1. ReactJS
   2. Redux
+  3. ES6
 ## B. Small researches:
   1. APM-project
 
