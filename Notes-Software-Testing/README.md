@@ -18,5 +18,16 @@ Testing principles
 | P 6:  | Testing is context dependent  | Testing code is done differently in different contexts. For example, safety-critical software is tested differently from an e-commerce site  |
 | P 7:  | Absence-of-errors fallacy  | Finding and fixing defects does not help if the system built is unusable and does not fulfill the users' needs expectations  |
 
+**Test plan** - a document describing the scope, approach, resources and schedule of intended test activities. It determs test items, the features to be tested, testing tasks and who will do each task, the test environment, the design techniques. It is a record of the test planning process.
+
+**Test policy** - a high-level document describing the principles, approach and major objectivites of the organization regarding testing.
+
+**Test strategy** - a high-level description of the test levels to be performed and the testing within those levels for an organization or program.
+
+**Test approach** - the implementation of the test stratagy for a specific project.
+
+**Test coverage** - the degree, expressed as a percentage, to which a specified coverage item has been exercised by a test suite.
+
+
 ## References
   1. Graham D., Van Veenendaal E., Evans I., Black R. Foundation of Software Testing | ISTQB Certification, 2008, https://www.amazon.com/Foundations-Software-Testing-ISTQB-Certification/dp/1844809897/ref=sr_1_1?s=books&ie=UTF8&qid=1520879066&sr=1-1&keywords=9781844809899
