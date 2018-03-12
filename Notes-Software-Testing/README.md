@@ -78,5 +78,39 @@
 
 `Maintainability testing` - the process of testing to determine the maintainability(the ease with which a software product can be modified to correct defects, to meet new requirements to make future maintenance easier) of a software product.
 
+## Phases of a formal review
+
+  1. Planning
+  2. Kick-off
+  3. Preparation
+  4. Review meeting
+  5. Rework
+  6. Follow up
+  
+**Planning** - the review process begins with a `request for review` by the author to moderator(leader and main person responsible for an instection or other review process). Moderator is often responsible for scheduling(dates, times, place and invitations) of a review. On a project level, the project planning needs to allow time for review and rework activities, thus providing engineers with time to thoroughly participate in reviews. 
+
+For formal reviews moderator always performs an `entry check` and defines at this stage formal exit criteria. The entry check is carried out to ensure that the reviewers' time is not wasted on a document that is not ready for a review. A document containing too many obvious mistakes is clearly not ready to enter a formal review process and it can be very harmful to the review process. It would possibly de-motivate both reviewers and author.
+
+Minimum set for performing the entry check:
+ 
+  1. A short check of a product sample by the modirator does not reveal a large number of a major defects.
+  2. The document to be reviewed is available with line numbers.
+  3. The document has been cleaned up by running any automated checks that apply.
+  4. References needed for the inspection are stable and available.
+  5. The document author is prepared to join the review team and feels confident with the quality of the document.
+  6. Maximum size between 10 and 20 pages.
+  
+Review team usually consists of 4-6 participants, including moderator and author. To improve the effectiveness of the review, moderator determines the roles.
+
+**Kick-off** - 
+
+**Preparation** - 
+
+**Review meeting** - 
+
+**Rework** - 
+
+**Follow up** - 
+
 ## References
   1. Graham D., Van Veenendaal E., Evans I., Black R. Foundation of Software Testing | ISTQB Certification, 2008, https://www.amazon.com/Foundations-Software-Testing-ISTQB-Certification/dp/1844809897/ref=sr_1_1?s=books&ie=UTF8&qid=1520879066&sr=1-1&keywords=9781844809899
