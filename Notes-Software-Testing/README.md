@@ -102,9 +102,9 @@ Minimum set for performing the entry check:
   
 Review team usually consists of 4-6 participants, including moderator and author. To improve the effectiveness of the review, moderator determines the roles.
 
-**Kick-off** - 
+**Kick-off** - optional step. The goal of this meeting is to get everybody on the same wavelength regarding the document under review and to commit to the time what will be spent on checking.
 
-**Preparation** - 
+**Preparation** - the participants work on the document under review using the related documents, procedures, rules and checklists provided. The individual participants identify defects, questions and comments, according to their understanding of the document and role. All issues are recorded. Spelling mistakes are recorded on the document under review but not mentioned during the meeting. The anotaded document will be given to the author at the end of the logging meeting.
 
 **Review meeting** - 
 
