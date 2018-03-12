@@ -6,7 +6,7 @@
   
 **Pesticide paradox** - if the same tests are repeated over and over again, eventually the same set of test cases will no longer find any new bugs. To overcome this 'pesticide paradox', the test cases need to be regularly reviewed and revised, and new different tests need to be written to exercise different parts of the software or system to potentially find more defects. 
 
-Testing principles
+### Testing principles:
 
 | Number  | Definition  | Description  |
 ---|---|---
@@ -18,6 +18,8 @@ Testing principles
 | P 6:  | Testing is context dependent  | Testing code is done differently in different contexts. For example, safety-critical software is tested differently from an e-commerce site  |
 | P 7:  | Absence-of-errors fallacy  | Finding and fixing defects does not help if the system built is unusable and does not fulfill the users' needs expectations  |
 
+### Test planning and control
+
 **Test plan** - a document describing the scope, approach, resources and schedule of intended test activities. It determs test items, the features to be tested, testing tasks and who will do each task, the test environment, the design techniques. It is a record of the test planning process.
 
 **Test policy** - a high-level document describing the principles, approach and major objectivites of the organization regarding testing.
@@ -28,6 +30,53 @@ Testing principles
 
 **Test coverage** - the degree, expressed as a percentage, to which a specified coverage item has been exercised by a test suite.
 
+### V-model
+
+**V-model** - a framework to describe the software development life cycle activities from requirements specification to maintenance. The V-model illustrates how testing activities can be integrated into each phase of the software development life cycle.
+
+### Testing types
+
+**Unit/Component testing** - searches fo defects in individual software components.
+
+**Robustness testing** - determes the robustness of the system product.
+
+**Integration testing** - testing performed to expose defects in the interfaces and in the iteration between integrated components or systems.
+
+**System testing** - the process of testing an integrated system to verify that it meets specified requirements.
+
+**Acceptance testing** - formal testing with respect to user needs, requirements and business processes conducted to determine whether or not a system satisfies the acceptance criterea and to enable the users, customers or other authorized entity to determine whether or not to accept the system.
+
+**Alpha testing** - simulated or actual testing by potential users/customers or an independent test team at the developers' site, but outside the development organization.
+
+**Beta testing** - operational testing by potential users/customers at an external site not otherwise involved with the developers, to determine whether or not a component or system satisfies the users/customers needs and fits within the business processes.
+
+**Functional testing** - testing based on analysis of the specification of the functionality of a component or system.
+
+**Black-box testing** - testing either functional or non-functional, without reference to the internal structure of the component system.
+
+**Functionality testing** - the process of testing to determine the functionality of a software product. 
+
+**Interoperability testing** - the process of testing to determine the interoperability of a software product.
+
+**Secure testing** - testing to determine the security of the software product.
+
+**Load testing** - a test type concerned with measuringthe behaviour of a component or system with increasing load(number of transactions, parallel users) to determine what load can be handled by the component or system.
+
+**Performance testing** - the process of testing to determine the performance.
+
+**Stress testing** -  testing conducted to evaluate a system or component at or beyond the limits of its specified requirements.
+
+**Reliability testing** - the process of tecting to determine the reliability(the ability to perform its reqired functions under stated conditions for a specified period of time) of a software product.
+
+**Usability testing** - testing to determine the extent of which the software product is understood, easy to learn, easy to operate and attractive to the users under specified conditions.
+
+**Efficiency testing** - the process of testing to determine the efficiency(capability to provide appropriate performance, relative to the amount of the resources used under stated conditions) of a software product.
+
+**Portability testing** - the process of testing to determine the portability(the ease with which the software can be transfered from one hardware/software envirinment to another) of a software product.
+
+**Maintenance testing** - maintenance(modification of a software product after delivering to correct defects, to improve performance or other attributes, or to adapt the product to a modified encironment) tecting the changes to an operational system or the impact of a changed encironment to an operational system.
+
+**Maintainability testing** - the process of testing to determine the maintainability(the ease with which a software product can be modified to correct defects, to meet new requirements to make future maintenance easier) of a software product.
 
 ## References
   1. Graham D., Van Veenendaal E., Evans I., Black R. Foundation of Software Testing | ISTQB Certification, 2008, https://www.amazon.com/Foundations-Software-Testing-ISTQB-Certification/dp/1844809897/ref=sr_1_1?s=books&ie=UTF8&qid=1520879066&sr=1-1&keywords=9781844809899
