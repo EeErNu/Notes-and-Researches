@@ -1,0 +1,11 @@
+{
+  "name": "research-raspberry-pi",
+  "version": "1.0.0",
+  "description": "Recently, I have bought a new Raspberry Pi 3B and I am super happy about it.\r As I know not much about Raspberry, boards, and everything that is connected to them(from a tech perspective), I would leave my researches, thoughts and ideas here.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
