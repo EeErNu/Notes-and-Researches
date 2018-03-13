@@ -6,5 +6,6 @@
   4. Software testing - https://github.com/EeErNu/Notes-and-Researches/tree/master/Notes-Software-Testing
 ## B. Small researches:
   1. APM-project- https://github.com/EeErNu/Notes-and-Researches/tree/master/Research-APM-project
+  2. Raspberry Pi - https://github.com/EeErNu/Notes-and-Researches/tree/master/Research-Raspberry-Pi
 
 
